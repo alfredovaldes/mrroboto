@@ -1,0 +1,55 @@
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Bot Application.dll.config
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Bot Application.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Bot Application.pdb
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Autofac.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Chronic.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Microsoft.Bot.Builder.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Microsoft.Bot.Connector.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Newtonsoft.Json.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\System.Net.Http.Formatting.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\System.Web.Http.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\System.Web.Http.WebHost.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Autofac.xml
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Microsoft.Bot.Builder.xml
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Microsoft.Bot.Connector.xml
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\Newtonsoft.Json.xml
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\System.Net.Http.Formatting.xml
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\System.Web.Http.xml
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\System.Web.Http.WebHost.xml
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\obj\Release\MIA Bot.csproj.CoreCompileInputs.cache
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\obj\Release\Bot Application.dll
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\obj\Release\Bot Application.pdb
+C:\Users\alfredo\source\repos\MIA Bot\MIA Bot\obj\Release\MIA Bot.csprojResolveAssemblyReference.cache
